@@ -7,4 +7,4 @@ In "community.txt", you need to enter links to communities.
 "requirements.txt" contains the module that is needed.
 
 
-#WITH LOVE, FOR AMINO)
+# WITH LOVE, FOR AMINO)
